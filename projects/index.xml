@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on My Portfolio</title>
-    <link>https://vishwasnavada.github.io/projects/</link>
+    <link>https://shashankpunia.github.io/projects/</link>
     <description>Recent content in Projects on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022</copyright>
     <lastBuildDate>Sun, 05 Apr 2020 01:42:27 +0530</lastBuildDate>
     
-	<atom:link href="https://vishwasnavada.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shashankpunia.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>https://vishwasnavada.github.io/projects/external_projects/</link>
+      <link>https://shashankpunia.github.io/projects/external_projects/</link>
       <pubDate>Sun, 05 Apr 2020 01:42:27 +0530</pubDate>
       
-      <guid>https://vishwasnavada.github.io/projects/external_projects/</guid>
+      <guid>https://shashankpunia.github.io/projects/external_projects/</guid>
       <description>UPS for WiFi Router</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://vishwasnavada.github.io/projects/internal_projects/</link>
+      <link>https://shashankpunia.github.io/projects/internal_projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vishwasnavada.github.io/projects/internal_projects/</guid>
+      <guid>https://shashankpunia.github.io/projects/internal_projects/</guid>
       <description>7 Billion population.</description>
     </item>
     
