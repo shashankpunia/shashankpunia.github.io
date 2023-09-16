@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Shashank Punia&#39;s Blog</title>
+    <link>https://shashankpunia.github.io/about/</link>
+    <description>Recent content in Abouts on Shashank Punia&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Nov 2018 22:51:13 +0530</lastBuildDate>
+    
+	<atom:link href="https://shashankpunia.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me!</title>
+      <link>https://shashankpunia.github.io/about/about/</link>
+      <pubDate>Sat, 10 Nov 2018 22:51:13 +0530</pubDate>
+      
+      <guid>https://shashankpunia.github.io/about/about/</guid>
+      <description>I&amp;rsquo;m an electronics and communication engineer graduated from Bangalore Institute of Technology in 2018. I worked as Hardware Design Engineer at Robert Bosch, Bangalore. Currently I&amp;rsquo;m working as a Senior Hardware Engineer for XR products at Qualcomm, Bangalore</description>
+    </item>
+    
+  </channel>
+</rss>
