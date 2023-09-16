@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Portfolio</title>
-    <link>https://vishwasnavada.github.io/tags/</link>
+    <link>https://shashankpunia.github.io/tags/</link>
     <description>Recent content in Tags on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://vishwasnavada.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shashankpunia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Academic</title>
-      <link>https://vishwasnavada.github.io/tags/academic/</link>
+      <link>https://shashankpunia.github.io/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
-      <guid>https://vishwasnavada.github.io/tags/academic/</guid>
+      <guid>https://shashankpunia.github.io/tags/academic/</guid>
       <description></description>
     </item>
     

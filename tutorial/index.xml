@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorials on My Portfolio</title>
-    <link>https://vishwasnavada.github.io/tutorial/</link>
+    <link>https://shashankpunia.github.io/tutorial/</link>
     <description>Recent content in Tutorials on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022</copyright>
     <lastBuildDate>Sun, 05 Apr 2020 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://vishwasnavada.github.io/tutorial/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shashankpunia.github.io/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DIY mini UPS for WiFi Router</title>
-      <link>https://vishwasnavada.github.io/tutorial/example/</link>
+      <link>https://shashankpunia.github.io/tutorial/example/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 -0600</pubDate>
       
-      <guid>https://vishwasnavada.github.io/tutorial/example/</guid>
+      <guid>https://shashankpunia.github.io/tutorial/example/</guid>
       <description>DIY UPS for WiFi Router There are already around 50Billion internet-connected devices around the globe. Hence the Internet connectivity is the backbone to run this fast-moving world. Everything from the financial market to telemedicine depends on the internet. Younger generation like us can survive without food for some time but cannot without a proper high-speed internet connection. Internet speeds in developing nations are still picking up as it needs a huge telecom infrastructure to connect to 7 Billion population.</description>
     </item>
     
